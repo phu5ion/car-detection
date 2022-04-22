@@ -6,3 +6,6 @@ The overall objective is to detect and measure the distance between cars, and to
 4. Output a distance measurement between the cars.  
 
 This project was done in collaboration with @tanchongmin.   
+
+We demonstrate how to run the code on a demo video `NewYorkCity_1044.mp4` in the Jupyter Notebook `Car_Detection.ipynb`. The output file is `stitched_NewYorkCity_1044.avi`. The notebook also details how to modify the filepaths to input your own videos.
+ 
